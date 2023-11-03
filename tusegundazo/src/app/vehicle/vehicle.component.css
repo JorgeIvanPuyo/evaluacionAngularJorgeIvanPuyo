@@ -1,0 +1,26 @@
+th.h4 {
+  font-family: "Inter", sans-serif;
+  background-color: #333a40;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 12px;
+  margin: 4px;
+}
+
+.bold-dd {
+  font-weight: bold;
+}
+
+.container-fluid {
+  font-size: 18px;
+  font-family: "Inter", sans-serif;
+}
+
+th.h4, .bold-dd, .container-fluid {
+    text-align: left;
+}
+
+.table dd {
+    margin: 4px;
+}

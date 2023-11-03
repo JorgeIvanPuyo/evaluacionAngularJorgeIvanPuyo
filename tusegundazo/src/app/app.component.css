@@ -1,0 +1,20 @@
+.tittle {
+  font-family: "Jaldi", sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  margin: 12px;
+}
+
+.banner-container {
+  width: 100%;
+  max-width: 100%;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.banner-container img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
