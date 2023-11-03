@@ -26,5 +26,8 @@
       </tr>
       </tbody>
     </table>
+    <div *ngFor="let marca of marcaArray">
+      Total {{marca}}: {{vehicleCountsByMarca[marca]}}
+    </div>
   </div>
 </div>
